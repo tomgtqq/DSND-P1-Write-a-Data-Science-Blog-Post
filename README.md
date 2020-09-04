@@ -1,5 +1,5 @@
 ## DSND-P1-Write-a-Data-Science-Blog-Post
-![Stackoverflow survey](src/stackoverflow.png)
+[Would You Advise your daughter to be a software engineer?](https://www.linkedin.com/pulse/would-you-advise-your-daughter-software-engineer-tom-ge/?trackingId=PIBPrg%2BrR1utrnNDTjFDzQ%3D%3D)
 ### Table of Contents
 
 1. [Installation](#installation)
