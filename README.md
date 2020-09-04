@@ -1,4 +1,5 @@
 ## DSND-P1-Write-a-Data-Science-Blog-Post
+![Stackoverflow survey](src/stackoverflow.png)
 ### Table of Contents
 
 1. [Installation](#installation)
