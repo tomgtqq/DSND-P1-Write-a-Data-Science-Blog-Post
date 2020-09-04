@@ -31,7 +31,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 ### Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+* We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ### Authors
 
@@ -39,4 +39,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### License
 
-This project is licensed under the MIT License
+* This project is licensed under the MIT License
